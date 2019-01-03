@@ -9,7 +9,7 @@
 - 期望职位：PHP 开发工程师
 - 期望薪资: 8K ~ 12K
 - GitHub：https://github.com/qivijay
-- 技术专栏：https://geekf.org
+- 技术专栏：https://geekcaff.top
 http://blog.csdn.net/only_lamp
 
 ## 技能清单
